@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7929d537-6a8a-426c-b0bc-b130e03c648c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/singleton/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/singleton/PoolManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/singleton/UsePoolManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/augustoaccorsi/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/banksystems/BankSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/banksystems/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/subsystems/CreditRatingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/subsystems/InternalBankPolicyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/subsystems/RepaymentPayabilityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/subsystems/RepaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/subsystems/TransferService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +38,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -73,5 +69,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
