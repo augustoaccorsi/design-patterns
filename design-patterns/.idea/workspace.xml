@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7929d537-6a8a-426c-b0bc-b130e03c648c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/dependencyinjection/English.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/dependencyinjection/Favourites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/dependencyinjection/Maths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/dependencyinjection/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/dependencyinjection/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/filter/AdminRequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/filter/AuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/filter/LogFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/filter/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,13 +20,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
