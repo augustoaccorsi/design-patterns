@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7929d537-6a8a-426c-b0bc-b130e03c648c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/decorator/ComplexMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/decorator/LogMessageFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/decorator/LogMessageJSONFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/decorator/SystemMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/decorator/logger/LogMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/dependencyinjection/English.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/dependencyinjection/Favourites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/dependencyinjection/Maths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/dependencyinjection/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/dependencyinjection/Target.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/CustomerEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/CustomerEndpoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/services/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/services/CustomerService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -60,6 +58,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.augustoaccorsi" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
