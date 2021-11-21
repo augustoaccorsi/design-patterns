@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7929d537-6a8a-426c-b0bc-b130e03c648c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/filter/AdminRequestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/filter/AuthenticationFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/filter/LogFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/filter/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/interceptor/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter3/interceptor/LoggerInterceptor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
