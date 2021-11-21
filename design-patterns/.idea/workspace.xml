@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7929d537-6a8a-426c-b0bc-b130e03c648c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/CustomerEvent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/CustomerEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/CustomerEndpoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/services/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/services/AuthenticationService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/services/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/services/CustomerService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/services/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/services/EmailService.java" afterDir="false" />
@@ -19,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
