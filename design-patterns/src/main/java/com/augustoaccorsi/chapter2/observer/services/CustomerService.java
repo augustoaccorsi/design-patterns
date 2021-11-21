@@ -5,14 +5,15 @@ import com.augustoaccorsi.chapter2.observer.CustomerEvent;
 
 import javax.annotation.Priority;
 import javax.enterprise.event.Observes;
+import javax.enterprise.event.ObservesAsync;
 
 public class CustomerService {
-    public void createCustomer(@Observes @Priority(10) @CustomerEvent(CustomerEvent.Type.ADD) Customer customer){
+    public void createCustomer(@ObservesAsync @CustomerEvent(CustomerEvent.Type.ADD) Customer customer){
         // write code
         System.out.println("Customer");
     }
 
-    public void removeCustomer(@Observes @CustomerEvent(CustomerEvent.Type.REMOVE) Customer customer){
+    public void removeCustomer(@ObservesAsync @CustomerEvent(CustomerEvent.Type.REMOVE) Customer customer){
         //write code
     }
 }
