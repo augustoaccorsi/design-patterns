@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7929d537-6a8a-426c-b0bc-b130e03c648c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/banksystems/BankSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/banksystems/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/subsystems/CreditRatingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/subsystems/InternalBankPolicyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/subsystems/RepaymentPayabilityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/subsystems/RepaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/facade/subsystems/TransferService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/CustomerEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/RESTConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/services/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/services/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/augustoaccorsi/chapter2/observer/services/EmailService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
   </component>
   <component name="ProjectId" id="20awB14jLq57PcwneErKf25DPoK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
